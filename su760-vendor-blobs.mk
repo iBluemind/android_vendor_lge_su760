@@ -59,10 +59,7 @@ PRODUCT_COPY_FILES += \
 
 ## TI-ST firmware
 PRODUCT_COPY_FILES += \
-    vendor/lge/su760/proprietary/etc/firmware/TIInit_7.2.31.bts:system/etc/firmware/TIInit_7.2.31.bts \
-    vendor/lge/su760/proprietary/etc/firmware/fmc_init_1273.2.bts:system/etc/firmware/fmc_init_1273.2.bts \
-    vendor/lge/su760/proprietary/etc/firmware/fm_tx_init_1273.2.bts:system/etc/firmware/fm_tx_init_1273.2.bts \
-    vendor/lge/su760/proprietary/etc/firmware/fm_rx_init_1273.2.bts:system/etc/firmware/fm_rx_init_1273.2.bts
+    vendor/lge/su760/proprietary/etc/firmware/TIInit_7.2.31.bts:system/etc/firmware/TIInit_7.2.31.bts
 
 ## GPS
 PRODUCT_COPY_FILES += \
