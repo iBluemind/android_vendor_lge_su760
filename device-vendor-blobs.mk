@@ -68,7 +68,6 @@ PRODUCT_COPY_FILES += \
     vendor/lge/su760/proprietary/etc/firmware/ti-connectivity/wl1271-nvs.bin:system/etc/firmware/ti-connectivity/wl1271-nvs.bin \
     vendor/lge/su760/proprietary/etc/firmware/TIInit_7.2.31.bts:system/etc/firmware/TIInit_7.2.31.bts \
     vendor/lge/su760/proprietary/etc/wifi/RFMD_S_3.5.ini:system/etc/wifi/RFMD_S_3.5.ini \
-    vendor/lge/su760/proprietary/etc/wifi/hostapd.conf:system/etc/wifi/hostapd.conf \
     vendor/lge/su760/proprietary/etc/wifi/wpa_supplicant.conf:system/etc/wifi/wpa_supplicant.conf
 
 # Bluetooth
