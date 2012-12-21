@@ -25,6 +25,7 @@ PRODUCT_COPY_FILES += \
     vendor/lge/su760/proprietary/lib/libril.so:system/lib/libril.so \
     vendor/lge/su760/proprietary/lib/libacousticengine.so:system/lib/libacousticengine.so \
     vendor/lge/su760/proprietary/lib/hw/audio.primary.omap4.so:system/lib/hw/audio.primary.omap4.so \
+    vendor/lge/su760/proprietary/lib/hw/audio_policy.default.so:system/lib/hw/audio_policy.default.so \
     vendor/lge/su760/proprietary/lib/hw/gralloc.omap4.so:system/lib/hw/gralloc.omap4.so \
     vendor/lge/su760/proprietary/lib/hw/lights.omap4.so:system/lib/hw/lights.omap4.so \
     vendor/lge/su760/proprietary/lib/hw/gps.omap4.so:system/lib/hw/gps.omap4.so \
